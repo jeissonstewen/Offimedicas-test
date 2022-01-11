@@ -9,7 +9,7 @@
 
 ## Pasos para instalar,configurar y desplegar la app
 
-1.)Clonar el proyecto
+1.)Clonar el proyecto<br />
 2.)clonar archivo .env.example en archivo .env
 3.)Instalar y configurar base de datos local(vease Xamp) con el nombre "offimedica"  usuario = root y la contraseña =     ..o modificar .env con los datos de la base de datos creada.
 
