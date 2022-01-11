@@ -13,12 +13,12 @@
 2.)clonar archivo .env.example en archivo .env<br />
 3.)Instalar y configurar base de datos local(vease Xamp) con el nombre "offimedica"  usuario = root y la contraseña =     ..o modificar .env con los datos de la base de datos creada.<br />
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=nombre de la base de datos
-DB_USERNAME=usuario
-DB_PASSWORD=contraseña
+DB_CONNECTION=mysql<br />
+DB_HOST=127.0.0.1<br />
+DB_PORT=3306<br />
+DB_DATABASE=nombre de la base de datos<br />
+DB_USERNAME=usuario<br />
+DB_PASSWORD=contraseña<br />
 <br />
 4.)Intalar composer en el equipo(si aplica)<br />
 5.)sobre la ruta del proyecto correr el comando "composer install"<br />
